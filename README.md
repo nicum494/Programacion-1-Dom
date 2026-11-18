@@ -63,3 +63,7 @@ descripcion: Repite X veces, Se utiliza cuando no sabemos cuantas veces tenemos 
         color: pink;
     }
 ```
+
+git add .
+git commit -m "feat: subiendo archivos"
+git push
